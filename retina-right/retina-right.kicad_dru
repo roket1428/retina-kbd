@@ -1,0 +1,9 @@
+(version 1)
+
+(rule "dfgap"
+
+	(constraint diff_pair_gap (min 5mil)))
+
+(rule "dp clearance"
+    (constraint clearance (min "5mil") (opt "47.90103mil"))
+    (condition "A.Type == 'Track' && A.inDiffPair('*') && !AB.isCoupledDiffPair()"))

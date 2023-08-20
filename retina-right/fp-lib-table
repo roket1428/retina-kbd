@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/libs/AlexandriaLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "/home/roket1428/src/keyboard-sources/AlexandriaLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/libs/AlexandriaLibrary/footprints/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "TYPE-C")(type "KiCad")(uri "${KIPRJMOD}/libs/Type-C.pretty")(options "")(descr ""))
+  (lib (name "puffy")(type "KiCad")(uri "${KIPRJMOD}/libs/puffy")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+)
